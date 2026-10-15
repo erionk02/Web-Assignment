@@ -1,0 +1,138 @@
+body{
+    background-color: white;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: grey;
+}
+.container{
+    margin: 0;
+    border: 2px solid black;
+    
+}
+#header{
+    background-color: darkslateblue;
+    border-bottom-width: 2px;
+    border-bottom-color: white 5px solid;
+    color: white;
+    padding: 10px;
+}
+nav{
+    background-color: darkslateblue;
+    margin-top: 2px;
+    border: solid black 2px;}
+ul{
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li{
+    float: left;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 3px;
+}
+#htmlsection{
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+p{
+    width: 50%;
+}
+.htmlpic{
+    width: 30%;
+    float: right;
+    margin-top: -400px;
+    margin-right: 30px;
+    position: relative;
+}
+table, th, td {
+    border: 3px solid black;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+}
+.tim{
+    width: 300px;
+    float: right;
+    margin-right: 20px;
+    border: 5px black solid;
+    position: relative;
+}
+#csssection{
+    padding: 10px;
+    border: black 2px solid;
+}
+.csslogo{
+    width: 40%;
+    float: right;
+    position: relative;
+}
+.csstable{
+    float: right;
+    width: 45%;
+}
+.typescss{
+    width: 50%;
+    position: relative;
+}
+#tagsection{
+    border: black 2px solid;
+    padding: 10px;
+}
+.cssused{
+    float: right;
+   margin-top: -700px;
+    background-color: rgb(197, 197, 96);
+    width: 40%;
+    padding: 20px;
+}
+.tagtable{
+    width: 55%;
+}
+.tagimg{
+    width: 40%;
+    float: right;
+    margin-top: -1200px;
+    margin-right: 20px;
+}
+.referenceul{
+    list-style: circle;
+    padding: 20px;
+}
+.cssused{
+    float: right;
+}
+footer{
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+    padding: 20px;
+}
+.footerlink{
+    text-decoration: none;
+    color: white;
+}
+.main{
+    background-color: white;
+}
